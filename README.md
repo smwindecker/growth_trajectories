@@ -1,5 +1,7 @@
 # How functional traits influence plant growth and shade tolerance across the life-cycle
 
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smwindecker/growth_trajectories/master?urlpath=rstudio)
+
 This repository contains code needed to reproduce the article:
 
 Falster DS[![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-9814-092X), Duursma R, FitzJohn R (2018) **How functional traits influence plant growth**. *Proceedings of the National Academy of Sciences USA* doi: [10.1073/pnas.1714044115](http://doi.org/10.1073/pnas.1714044115)

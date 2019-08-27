@@ -1,0 +1,29 @@
+Type: Compendium
+Package: Compendium title
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Compendium description
+License: What license it uses
+Depends: 
+    baad.data,
+    dplyr,
+    gridBase,
+    grImport,
+    knitr,
+    parallel,
+    plant,
+    RColorBrewer,
+    rmarkdown,
+    rstan,
+    tools,
+    xtable
+Remotes: 
+    traitecoevo/baad.data
+Encoding: UTF-8
+LazyData: true
